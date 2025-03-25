@@ -1,5 +1,10 @@
 # Curso-Machine-Learning
 
+<h4>Ferramentas:</h4>
+<ul>
+  <li>Scikit-learn</li>
+</ul>
+
 
 
 
